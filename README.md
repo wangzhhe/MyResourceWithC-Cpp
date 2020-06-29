@@ -5,11 +5,11 @@
 欢迎关注我的微信公众号【编程异思坊】，在里面会分享一些c/c++、Linux、数据结构与算法、计算机网络等基础知识。同时，里面也收录了很多计算机电子书资源，欢迎关注！
 
 ## <a name='TableOfContent'> 目录 </a>
-[c/c++](#c/c++)  
+[c++](#c++)  
 [2. Block Elements](#BlockElements) 
 
 
-## c/c++
+## c++
 ![c++](https://mmbiz.qpic.cn/mmbiz_png/xgnSK85ibxls0G78UbRbFETBu98iaYXWiadbKtib4l6KiazUItKgtw2zYtqYPWMgzibfbv5VE8BxLCr42uDOrskBPy5g/0?wx_fmt=png)
 
 百度网盘：[c++](https://pan.baidu.com/s/1LGbkkOKqDPx8AdclWyLlSg)　提取码: e1fk 
