@@ -56,7 +56,7 @@
 
 百度网盘：[设计模式](https://pan.baidu.com/s/1YXre3zjQiZCgWl85fEuwWA)　提取码: kjme
 
-## 关注
+## 关注不迷路
 ![](https://mmbiz.qpic.cn/mmbiz_png/xgnSK85ibxltBUqiamzwMKBzAGvbhYU0tCMqTk4BCaDamQQ4EibbtXxOBGg1ROQibic3D2l5gCXibQFtgDkXE3AWh8lw/0?wx_fmt=png)
 
 公众号：**编程异思坊**
