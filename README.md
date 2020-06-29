@@ -5,7 +5,7 @@
 欢迎关注我的微信公众号【编程异思坊】，在里面会分享一些c/c++、Linux、数据结构与算法、计算机网络等基础知识。同时，里面也收录了很多计算机电子书资源，欢迎关注！
 
 * [c++](https://github.com/RicardoMLu01/MyResourceWithC-Cpp/blob/master/README.md#c)
-* [数据结构与算法](#data-structure)
+* [数据结构与算法](https://github.com/RicardoMLu01/MyResourceWithC-Cpp/blob/master/README.md#%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95)
 * [⚡️ 算法](#algorithm)
 * [❓ Problems](#problems)
 * [💻 操作系统](#os)
