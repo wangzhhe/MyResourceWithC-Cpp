@@ -9,7 +9,7 @@
 * [操作系统](https://github.com/RicardoMLu01/MyResourceWithC-Cpp/blob/master/README.md#%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F)
 * [计算机网络](https://github.com/RicardoMLu01/MyResourceWithC-Cpp/blob/master/README.md#%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C)
 * [数据库](https://github.com/RicardoMLu01/MyResourceWithC-Cpp/blob/master/README.md#%E6%95%B0%E6%8D%AE%E5%BA%93)
-* [编译原理](#database)
+* [编译原理](https://github.com/RicardoMLu01/MyResourceWithC-Cpp/blob/master/README.md#%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86)
 * [设计模式](#design-pattern)
 
 
